@@ -1,4 +1,8 @@
-# Book Swap (Name TBD)
+# Book Swap
+
+Nathan's Note: This was  a colaborative effort with 4 other members of my CS program.  I was on the frontend team and was 
+responsible for the book details page and the bookswap functionality.  React was an entirely new language to me, so I had to learn
+everything I implemented under a pretty tight timeframe.
 
 ## Install and Run
 
