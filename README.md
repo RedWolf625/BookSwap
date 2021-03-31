@@ -27,9 +27,7 @@ npm run frontend
 # Server runs on localhost:4000 and frontend on localhost:3000
 ```
 
-This allows the application to connect to the database in your local
-development environment. The `.env` file will be ignored by git so that
-sensitive information (like passwords) are not committed to version control.
+Be sure to download and include the .env file as this allows the site to connect to the database
 
 The environment variables you set are being used in `lib/db.js`
 
