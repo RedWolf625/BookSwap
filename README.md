@@ -27,13 +27,6 @@ npm run frontend
 # Server runs on localhost:4000 and frontend on localhost:3000
 ```
 
-## Set Database Environment Variables
-
-1. Duplicate the `.env-example` file (keeping it in the root of the project)
-   and rename it `.env`
-2. Replace the values inside the file with the correct MySql database
-   credentials.
-
 This allows the application to connect to the database in your local
 development environment. The `.env` file will be ignored by git so that
 sensitive information (like passwords) are not committed to version control.
